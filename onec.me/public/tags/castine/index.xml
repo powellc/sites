@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Castine on One C</title>
+    <link>https://www.onec.me/tags/castine/</link>
+    <description>Recent content in Castine on One C</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 27 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.onec.me/tags/castine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Campaigning</title>
+      <link>https://www.onec.me/blog/campaigning/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.onec.me/blog/campaigning/</guid>
+      <description>Campaigning has been a very interesting trip. The most memoroable aspect of running for select board so far has been finding people standing up along side me and asking how they can help me gain a seat at the table. Mostly, that&amp;rsquo;s because I tend to think of myself as a relatively unimportant person. And I am, even now. Yet my desire to serve the town intersects with a lot of other folks&amp;rsquo; desires for their town, and I&amp;rsquo;m amazed that they see me as someone who can help them.</description>
+    </item>
+    
+  </channel>
+</rss>

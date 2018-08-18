@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on One C</title>
+    <link>https://www.onec.me/blog/</link>
+    <description>Recent content in Blog on One C</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 14 Dec 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://www.onec.me/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apples</title>
+      <link>https://www.onec.me/blog/apples/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.onec.me/blog/apples/</guid>
+      <description>Sitting in a coffee shop surrounded by people tapping away on Macbooks I can help but remember my freshman year in college. One of my floor RLAs was a total Mac cultist who owned multiple aging machines, included a G3 that he desperately wanted to get Apache running on. OS 9 was less hospitable to POSIX toolchains then. He did get it to work eventually, and I was impressed, but I sure as hell wasn&amp;rsquo;t going to buy a Mac myself.</description>
+    </item>
+    
+    <item>
+      <title>Campaigning</title>
+      <link>https://www.onec.me/blog/campaigning/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.onec.me/blog/campaigning/</guid>
+      <description>Campaigning has been a very interesting trip. The most memoroable aspect of running for select board so far has been finding people standing up along side me and asking how they can help me gain a seat at the table. Mostly, that&amp;rsquo;s because I tend to think of myself as a relatively unimportant person. And I am, even now. Yet my desire to serve the town intersects with a lot of other folks&amp;rsquo; desires for their town, and I&amp;rsquo;m amazed that they see me as someone who can help them.</description>
+    </item>
+    
+    <item>
+      <title>Free and Responsible</title>
+      <link>https://www.onec.me/blog/free-and-responsible/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.onec.me/blog/free-and-responsible/</guid>
+      <description>The way I was raised, certain people were simply wrong. If they didn&amp;rsquo;t share the same enthusiasm for science, they were incorrect. If they believed in a benevolent (or even malevolent) Christian god, they were wrong. There was very little gray in many of the positions that were espoused to me. One of the great aspects of humanity is that we are given the opportunity to raise our children with our values and beliefs.</description>
+    </item>
+    
+    <item>
+      <title>Spacemacs</title>
+      <link>https://www.onec.me/blog/spacemacs/</link>
+      <pubDate>Tue, 19 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.onec.me/blog/spacemacs/</guid>
+      <description>Emacs is very powerful. Amazingly so. But it&amp;rsquo;s so arcane, the keystrokes could take you years to master. So what&amp;rsquo;s a developer to do?
+Enter spacemacs. I honestly don&amp;rsquo;t know where this idea came from, and my brain is structured in such a way that I could have ever pulled it off myself. But an emacs configured like Vim (thank you evil mode) with discoverable keystrokes &amp;hellip; I am always flabergasted.</description>
+    </item>
+    
+    <item>
+      <title>Another Engine</title>
+      <link>https://www.onec.me/blog/another-engine/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.onec.me/blog/another-engine/</guid>
+      <description>Once, I used Jekyll. Then I switched to Pelican. I&amp;rsquo;m finally here on Hugo, and hoping that this will make it easier to keep things updated. The eternal question when chosing a method to publish a blog is, why publish a blog. I don&amp;rsquo;t really have an answer for that yet. I wish I did. Honestly, I do. You don&amp;rsquo;t have to believe me, because I believe in myself, and if this is all one big simulation, you don&amp;rsquo;t matter anyway.</description>
+    </item>
+    
+    <item>
+      <title>Coaching soccer</title>
+      <link>https://www.onec.me/blog/coaching-soccer/</link>
+      <pubDate>Tue, 26 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.onec.me/blog/coaching-soccer/</guid>
+      <description>This is my second year coaching the middle school soccer team here in Castine. Each year I am filled with apprehension about the make up of the team, and wether coaching is actually something I can do. All those kids, just looking at you to say something, anything really, so long as it relates to soccer.
+And yet here I am. My second year of telling kids what to do. Interestingly, what&amp;rsquo;s most stood out from year to year is the growth of the players.</description>
+    </item>
+    
+    <item>
+      <title>Equity</title>
+      <link>https://www.onec.me/blog/equity/</link>
+      <pubDate>Tue, 19 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.onec.me/blog/equity/</guid>
+      <description>The gospel of Matthew suggests that Christ&amp;rsquo;s heaven is an equal opportunity saver. That is, it is not a place where those who worked the hardest receive the best, or those who took and never gave suffer. The parable of the vineyard laborers more or less spells out a universal salvation message for those who would be willing to work, not for how much they work. And, as a parable, that means that those who come to find love and compassion late in life are no less entitled to salvation than anyone else.</description>
+    </item>
+    
+    <item>
+      <title>Are you like me?</title>
+      <link>https://www.onec.me/blog/are-you-like-me/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.onec.me/blog/are-you-like-me/</guid>
+      <description>One of the aspects of my faith that I have the most difficulty with is accepting other people regardless of where they are. As a human, I like to hang with people like me. This is understandable, as tribalism exists in the world as an artifact of the world we have lived in for the last 10,000 years.
+And yet, UUism calls me to be accepting of others and to encourage others in their spiritual growth.</description>
+    </item>
+    
+    <item>
+      <title>Leadership</title>
+      <link>https://www.onec.me/blog/leadership/</link>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.onec.me/blog/leadership/</guid>
+      <description>An interesting discussion occurred at work today where I was forced to put into words some thoughts I&amp;rsquo;ve been kicking around for a while on the nature of leadership. None of my thoughts are original, mind you. This one was cribbed from a blog post about leading without authority. I&amp;rsquo;ll drop the link when I find it. The long and the short of that post was that leadership has only the loosest relationship with authority.</description>
+    </item>
+    
+    <item>
+      <title>Finding meaning</title>
+      <link>https://www.onec.me/blog/finding-meaning/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.onec.me/blog/finding-meaning/</guid>
+      <description>What does it mean to encourage others towards spiritual growth? At a recent board meeting, which included a fairly contentious issue, a number of friends and myself certainly did not encourage anyone towards spiritual growth. The root of the problem, as with many problems, lies with differences; differences of opinion, experience, and expectations. As a Unitarian Universalist congregation, we espouse the seven principles, which are as close to dogma as you&amp;rsquo;re likely to see in UUism.</description>
+    </item>
+    
+    <item>
+      <title>Why are we grateful?</title>
+      <link>https://www.onec.me/blog/why-are-we-grateful/</link>
+      <pubDate>Tue, 19 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.onec.me/blog/why-are-we-grateful/</guid>
+      <description>I just finished the book The Righteous Mind by Jonathan Haidt and was struck by a line at the beginning of his acknowledgment section. Relaying what a graduate student once taught him he explains that we do not express gratitude to settle debts or sow the ground for favors. We give our gratitude out to make stronger relationships.
+I was struck by what a simple, yet profound thought that was. Gratefulness is not a selfish tool we wield to get the upper hand.</description>
+    </item>
+    
+    <item>
+      <title>Common Ground</title>
+      <link>https://www.onec.me/blog/common-ground/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.onec.me/blog/common-ground/</guid>
+      <description>Another fair has come and gone. There was once a time where we lazily strolled through Common Ground, treating it like so many other country fairs. Once we discovered the lectures on homestaeding and slow living, we started running manic circles through Unity looking for the next best talk.
+When kids came along, we continued to try to run laps through, trading responsibility for the little ones while we collected ideas to bring home.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on One C</title>
+    <link>https://onec.me/posts/</link>
+    <description>Recent content in Posts on One C</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Aug 2018 22:08:01 -0400</lastBuildDate>
+    
+	<atom:link href="https://onec.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Another Engine</title>
+      <link>https://onec.me/posts/another-engine/</link>
+      <pubDate>Fri, 17 Aug 2018 22:08:01 -0400</pubDate>
+      
+      <guid>https://onec.me/posts/another-engine/</guid>
+      <description>Once, I used Jekyll. Then I switched to Pelican. I&amp;rsquo;m finally here on Hugo, and hoping that this will make it easier to keep things updated. The eternal question when chosing a method to publish a blog is, why publish a blog. I don&amp;rsquo;t really have an answer for that yet. I wish I did. Honestly, I do. You don&amp;rsquo;t have to believe me, because I believe in myself, and if this is all one big simulation, you don&amp;rsquo;t matter anyway.</description>
+    </item>
+    
+  </channel>
+</rss>

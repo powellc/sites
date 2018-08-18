@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conscience on One C</title>
+    <link>https://www.onec.me/tags/conscience/</link>
+    <description>Recent content in Conscience on One C</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 29 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.onec.me/tags/conscience/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Enough</title>
+      <link>https://www.onec.me/blog/enough/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.onec.me/blog/enough/</guid>
+      <description>From the lyrics of John K. Sampson, this world is good enough, because it has to be.</description>
+    </item>
+    
+  </channel>
+</rss>

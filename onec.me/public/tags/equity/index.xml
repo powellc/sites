@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Equity on One C</title>
+    <link>https://www.onec.me/tags/equity/</link>
+    <description>Recent content in Equity on One C</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 19 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.onec.me/tags/equity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Equity</title>
+      <link>https://www.onec.me/blog/equity/</link>
+      <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.onec.me/blog/equity/</guid>
+      <description>The gospel of Matthew suggests that Christ&amp;rsquo;s heaven is an equal opportunity saver. That is, it is not a place where those who worked the hardest receive the best, or those who took and never gave suffer. The parable of the vineyard laborers more or less spells out a universal salvation message for those who would be willing to work, not for how much they work. And, as a parable, that means that those who come to find love and compassion late in life are no less entitled to salvation than anyone else.</description>
+    </item>
+    
+  </channel>
+</rss>

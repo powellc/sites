@@ -1,0 +1,89 @@
+==================================================================
+https://keybase.io/castine_colin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.colinforcastine.com
+  * I am castine_colin (https://keybase.io/castine_colin) on keybase.
+  * I have a public key with fingerprint E6B4 66F7 90BB 15F6 C205  8DAD 3D7C 93FB 66B2 492F
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b07147600495245e5741f2e071f439e7f6a56d34e0cfec0a77d989376dc2c6000a",
+      "fingerprint": "e6b466f790bb15f6c2058dad3d7c93fb66b2492f",
+      "host": "keybase.io",
+      "key_id": "3d7c93fb66b2492f",
+      "kid": "01016984d3bfbbe060aaedfcffee16ece866f2791f161c71a2d11c19b0757469fe500a",
+      "uid": "367d80120a202402189d55af0b991a19",
+      "username": "castine_colin"
+    },
+    "merkle_root": {
+      "ctime": 1512577276,
+      "hash_meta": "93e45971908f7274c4dd400d5afb1c057e8487295146329711a29f1fee662059",
+      "seqno": 1784684
+    },
+    "revoke": {
+      "sig_ids": [
+        "495e91065851a4a19ab3aba707465da9e2c448fcbd5d419b1757d8bf1c93aa390f"
+      ]
+    },
+    "service": {
+      "hostname": "www.colinforcastine.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1512577309,
+  "expire_in": 157680000,
+  "prev": "ccab9426034e40609d14c070ef45e5e162dbf253cd19e486abd8aabd9c01dbf6",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMQDAnicbZNrbBVFFMdbBNSG9yNYCKYsIhWuZWZ3dnanEXlVoCS3oiARWrjs7szQ
+9fbevey93LZCFWJKkAKVV63y0AA+gACRZ5FAbUFTXl+wtUJJaTQEKiClMSkUaZ0t
+kGjil93MzP+c8z+/OXOm9zMJSYnjl218yA9mjks8X71yScK81OThSyXToYVS+lIp
+yLp+LI+yaCwQtKmULgEoAxNoEGkYAERUGalM1RDkMhO7HCmEaRwbKqYKYsDizAKG
+plGiE0XD1JItEQYMySdxO7yIuRHXDsdEWoZNhDHXCDBNqHJsyUDVqUEVqllE4SbG
+poyIzEVgrhP1IoQ504iyNNsRe2IR6LL3P/qnvgHEREdUMblpMoCBYTDKLc4Zg5hZ
+TBflZY1ADjG0NGjIFEILEtGraA8TztTHvpc8roM1qnssDBnICMhQJ1RVDQ5MQqAB
+iSeMMjdshJhQW0Y0ZodZwHLy7LBU5JNCzA3msYDrODGPsBWzPR1Uoaxqmqxh0aUR
+zQ2EWMwQ4URhSCUaJEDn4hRZiFIEABX1TGgBVWM60jWZqBBhRRZC4Z5wKDrDWHD0
+zETZ4rAjKmg6wjoSDlwWd4LMKx61Fwl2USk9WxL3yQgEWNVVaCDRhmEqhmloQBBQ
+qUGYbCGkc8ukKkWCDRRsqG5yKJgbhkIAl+YXecXcuG11Jfcu6wmE/Pz8tC4A3HGf
+ABHrkDAXcZ2YI46EKDcWi0TTPUSxwkhXFDMDT/IFTDtMxdSIiDhzo7YTFg0J5X/p
+KYD4JFYQsV0WsD2FqmFdzBzw6rC4dxuWYRIkYyAmFIlBIBQiC2iAcW+WxTTI1OSy
+qlgUEoZ0bJhUN8SHWACKE/wvnFD4NBaJnAJi2IgtcZlUVF2V0z0hMSmhZ49u3nNK
+SHq+39NH1lbStwPOlktvv/brhL6VC6T7FR/iT+uqMmH/MVt+m7027vh21jUsvnwv
+a9Ch4/smPtfHX+4eHK++2nqh15zU1olVxdOHVpQcGctGjJq57brf39zd/jotvu2F
+Keq0IYGrWbVJ5RBC0G1ur8F3V9jB9XD54S/jasnmZuudAyczisr8KwqOLEyr28An
+laxa2969ba8yYv2a4mGlF3dd29T4aPueq4m43+YB+QtDW08nHXxzQXZrR0owZeDx
+y3NGFefd3VHnkILmE486+vYvJl8krepzPjuz5eVTlT0unA7BjKMPlLJwHV998pV1
+Y2b8vPe9nvNa/Tc3jR52HDUnb7rV8P3rtY9O3O5cX3tsd9OKxht/7E/5uK5mNEzu
+nDz37E9l6IrzV1nFzN2+1bsW1I8cS476GupbDj1sKlx7eMYP3UZO9tk92qelBjc8
+vHXrYs25+f7hbTvCs+rvp1dd+ey7zXf216/5+5uUfrcHDcqaWnT+/bEJl7b0Lti6
+8q0JRVrpG7/cu3O2Unt7Tdul0gdpndOvJ9PlWcrQjl7jPkhtznypsDHXP2Dw0v7b
+2/dNGV87YOpH4W3rqhtOHYssv5yXpuWU+GquZ9L2a5OONNVeWlYZ/zFzSEVD+cZn
+q6+++Lnjvpuzs6zBHz/T2Krc3DO4/KsHB3DLuQvpLTe+nfJnxP5d332zFR1uyuhs
+ztl34nR2R83IWQND+ifsXP0/av0NvQ==
+=VnGk
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/castine_colin
+
+==================================================================
+

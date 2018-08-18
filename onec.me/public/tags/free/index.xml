@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Free on One C</title>
+    <link>https://www.onec.me/tags/free/</link>
+    <description>Recent content in Free on One C</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 28 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.onec.me/tags/free/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Free and Repsonsible</title>
+      <link>https://www.onec.me/blog/free-and-repsonsible/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.onec.me/blog/free-and-repsonsible/</guid>
+      <description>The way I was raised, certain people were simply wrong. If they didn&amp;rsquo;t share the same enthusiasm for science, they were incorrect. If they believed in a benevolent (or even malevolent) Christian god, they were wrong. There was very little gray in many of the positions that were espoused to me. One of the great aspects of humanity is that we are given the opportunity to raise our children with our values and beliefs.</description>
+    </item>
+    
+  </channel>
+</rss>

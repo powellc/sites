@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on One C</title>
+    <link>https://www.onec.me/tags/tools/</link>
+    <description>Recent content in Tools on One C</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 19 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.onec.me/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spacemacs</title>
+      <link>https://www.onec.me/blog/spacemacs/</link>
+      <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.onec.me/blog/spacemacs/</guid>
+      <description>Emacs is very powerful. Amazingly so. But it&amp;rsquo;s so arcane, the keystrokes could take you years to master. So what&amp;rsquo;s a developer to do?
+Enter spacemacs. I honestly don&amp;rsquo;t know where this idea came from, and my brain is structured in such a way that I could have ever pulled it off myself. But an emacs configured like Vim (thank you evil mode) with discoverable keystrokes &amp;hellip; I am always flabergasted.</description>
+    </item>
+    
+  </channel>
+</rss>

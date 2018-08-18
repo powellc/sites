@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en-US" itemscope itemtype="http://schema.org/WebPage">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Another Engine - One C</title>
+  
+
+<meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+<meta name="MobileOptimized" content="width"/>
+<meta name="HandheldFriendly" content="true"/>
+
+
+<meta name="applicable-device" content="pc,mobile">
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<meta name="theme-color" content="#f8f5ec" />
+<meta name="msapplication-navbutton-color" content="#f8f5ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+
+<meta name="mobile-web-app-capable" content="yes">
+
+<meta name="author" content="[Colin Powell]" />
+  <meta name="description" content="Once, I used Jekyll. Then I switched to Pelican. I&amp;rsquo;m finally here on Hugo, and hoping that this will make it easier to keep things updated. The eternal question when chosing a method to publish a blog is, why publish a blog. I don&amp;rsquo;t really have an answer for that yet. I wish I did. Honestly, I do. You don&amp;rsquo;t have to believe me, because I believe in myself, and if this is all one big simulation, you don&amp;rsquo;t matter anyway." />
+
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.47" />
+
+
+<link rel="canonical" href="https://www.onec.me/blog/another-engine/" />
+
+
+
+<link rel="icon" href="https://www.onec.me/favicon.ico" />
+
+
+
+
+
+
+
+
+
+
+<link href="https://www.onec.me/dist/jane.min.css?v=2.7.0" rel="stylesheet">
+
+
+
+
+<meta property="og:title" content="Another Engine" />
+<meta property="og:description" content="Once, I used Jekyll. Then I switched to Pelican. I&rsquo;m finally here on Hugo, and hoping that this will make it easier to keep things updated. The eternal question when chosing a method to publish a blog is, why publish a blog. I don&rsquo;t really have an answer for that yet. I wish I did. Honestly, I do. You don&rsquo;t have to believe me, because I believe in myself, and if this is all one big simulation, you don&rsquo;t matter anyway." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.onec.me/blog/another-engine/" /><meta property="article:published_time" content="2018-08-17T00:00:00-04:00"/>
+<meta property="article:modified_time" content="2018-08-17T23:59:23-04:00"/>
+<meta itemprop="name" content="Another Engine">
+<meta itemprop="description" content="Once, I used Jekyll. Then I switched to Pelican. I&rsquo;m finally here on Hugo, and hoping that this will make it easier to keep things updated. The eternal question when chosing a method to publish a blog is, why publish a blog. I don&rsquo;t really have an answer for that yet. I wish I did. Honestly, I do. You don&rsquo;t have to believe me, because I believe in myself, and if this is all one big simulation, you don&rsquo;t matter anyway.">
+
+
+<meta itemprop="datePublished" content="2018-08-17T00:00:00-04:00" />
+<meta itemprop="dateModified" content="2018-08-17T00:00:00-04:00" />
+<meta itemprop="wordCount" content="142">
+
+
+
+<meta itemprop="keywords" content="" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Another Engine"/>
+<meta name="twitter:description" content="Once, I used Jekyll. Then I switched to Pelican. I&rsquo;m finally here on Hugo, and hoping that this will make it easier to keep things updated. The eternal question when chosing a method to publish a blog is, why publish a blog. I don&rsquo;t really have an answer for that yet. I wish I did. Honestly, I do. You don&rsquo;t have to believe me, because I believe in myself, and if this is all one big simulation, you don&rsquo;t matter anyway."/>
+
+<!--[if lte IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+<![endif]-->
+
+
+
+
+</head>
+<body>
+  <div id="mobile-navbar" class="mobile-navbar">
+  <div class="mobile-header-logo">
+    <a href="https://www.onec.me/" class="logo">One C</a>
+  </div>
+  <div class="mobile-navbar-icon">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>
+<nav id="mobile-menu" class="mobile-menu slideout-menu">
+  <ul class="mobile-menu-list">
+    <li class="mobile-menu-item">
+        
+          
+          
+            <a class="menu-item-link" href="https://www.onec.me/blog/">Blog</a>
+          
+        
+      </li><li class="mobile-menu-item">
+        
+          
+          
+            <a class="menu-item-link" href="https://www.onec.me/about/">About</a>
+          
+        
+      </li><li class="mobile-menu-item">
+        
+          
+          
+            <a class="menu-item-link" href="https://www.onec.me/code/">Code</a>
+          
+        
+      </li>
+    
+  </ul>
+</nav>
+
+
+  
+
+  
+
+  <header id="header" class="header container">
+    <div class="logo-wrapper">
+  <a href="https://www.onec.me/" class="logo">
+    
+      One C
+    
+  </a>
+</div>
+
+<nav class="site-navbar">
+  <ul id="menu" class="menu">
+    
+      <li class="menu-item">
+        
+          
+          
+            <a class="menu-item-link" href="https://www.onec.me/blog/">Blog</a>
+          
+
+        
+
+      </li>
+    
+      <li class="menu-item">
+        
+          
+          
+            <a class="menu-item-link" href="https://www.onec.me/about/">About</a>
+          
+
+        
+
+      </li>
+    
+      <li class="menu-item">
+        
+          
+          
+            <a class="menu-item-link" href="https://www.onec.me/code/">Code</a>
+          
+
+        
+
+      </li>
+    
+    
+  </ul>
+</nav>
+
+  </header>
+
+  <div id="mobile-panel">
+    <main id="main" class="main bg-llight">
+      <div class="content-wrapper">
+        <div id="content" class="content container">
+          <article class="post bg-white">
+  
+  <header class="post-header">
+    <h1 class="post-title">Another Engine</h1>
+    
+    <div class="post-meta">
+      <span class="post-time">
+        2018-08-17
+      </span>
+    </div>
+  </header>
+
+  
+  
+
+  
+  <div class="post-content">
+      <p>Once, I used Jekyll. Then I switched to Pelican. I&rsquo;m finally here on Hugo, and
+hoping that this will make it easier to keep things updated. The eternal
+question when chosing a method to publish a blog is, why publish a blog. I don&rsquo;t
+really have an answer for that yet. I wish I did. Honestly, I do. You don&rsquo;t have
+to believe me, because I believe in myself, and if this is all one big
+simulation, you don&rsquo;t matter anyway.</p>
+
+<p>Incidentally, perhaps the best part of this transition is the
+<a href="https://ox-hugo.scripter.co/">ox-hugo</a> plugin, which makes writing new posts
+and publishing them a dream. Now, instead of some complicated cocktail of adding
+a new file with the write filename and proper metadata, I can just org-mode
+capture the thing. The more I use emacs (and specifically
+<a href="http://spacemacs.org">spacemacs</a>), the more in love I am.</p>
+
+  </div>
+
+  
+  
+
+  
+  
+</article>
+
+
+
+
+  
+  
+
+  
+
+  
+
+  
+
+        </div>
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="social-links">
+  <a href="https://www.onec.me/index.xml" rel="noopener alternate" type="application/rss&#43;xml" class="iconfont icon-rss"
+    title="rss" target="_blank">
+  </a>
+  </div>
+
+<div class="copyright">
+  <span class="power-by">
+    Powered by <a class="hexo-link" href="https://gohugo.io">Hugo</a>
+  </span>
+  <span class="division">|</span>
+  <span class="theme-info">
+    Theme - <a class="theme-link" href="https://github.com/xianmin/hugo-theme-jane">Jane</a>
+  </span>
+
+  <span class="copyright-year">
+    &copy;
+    
+       -
+    2018
+    <span class="heart">
+      <i class="iconfont icon-heart"></i>
+    </span></span>
+
+  
+  
+</div>
+
+    </footer>
+
+    <div class="back-to-top" id="back-to-top">
+      <i class="iconfont icon-up"></i>
+    </div>
+  </div>
+  
+<script type="text/javascript" src="https://www.onec.me/lib/jquery/jquery-3.2.1.min.js"></script>
+  <script type="text/javascript" src="https://www.onec.me/lib/slideout/slideout-1.0.1.min.js"></script>
+<script type="text/javascript" src="https://www.onec.me/dist/jane.min.js?v=2.7.0"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

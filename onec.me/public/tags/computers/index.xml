@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computers on One C</title>
+    <link>https://www.onec.me/tags/computers/</link>
+    <description>Recent content in Computers on One C</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 14 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.onec.me/tags/computers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apples</title>
+      <link>https://www.onec.me/blog/apples/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.onec.me/blog/apples/</guid>
+      <description>Sitting in a coffee shop surrounded by people tapping away on Macbooks I can help but remember my freshman year in college. One of my floor RLAs was a total Mac cultist who owned multiple aging machines, included a G3 that he desperately wanted to get Apache running on. OS 9 was less hospitable to POSIX toolchains then. He did get it to work eventually, and I was impressed, but I sure as hell wasn&amp;rsquo;t going to buy a Mac myself.</description>
+    </item>
+    
+  </channel>
+</rss>

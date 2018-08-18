@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Management on One C</title>
+    <link>https://www.onec.me/tags/management/</link>
+    <description>Recent content in Management on One C</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 26 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.onec.me/tags/management/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Leadership</title>
+      <link>https://www.onec.me/blog/leadership/</link>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.onec.me/blog/leadership/</guid>
+      <description>An interesting discussion occurred at work today where I was forced to put into words some thoughts I&amp;rsquo;ve been kicking around for a while on the nature of leadership. None of my thoughts are original, mind you. This one was cribbed from a blog post about leading without authority. I&amp;rsquo;ll drop the link when I find it. The long and the short of that post was that leadership has only the loosest relationship with authority.</description>
+    </item>
+    
+  </channel>
+</rss>

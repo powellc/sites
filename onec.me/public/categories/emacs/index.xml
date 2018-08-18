@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emacs on a personal blog</title>
+    <link>http://www.onec.me/categories/emacs/</link>
+    <description>Recent content in Emacs on a personal blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Aug 2018 01:01:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.onec.me/categories/emacs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Another Engine</title>
+      <link>http://www.onec.me/post/another-engine/</link>
+      <pubDate>Sat, 18 Aug 2018 01:01:00 -0400</pubDate>
+      
+      <guid>http://www.onec.me/post/another-engine/</guid>
+      <description>Once, I used Jekyll. Then I switched to Pelican. I&amp;rsquo;m finally here on Hugo, and hoping that this will make it easier to keep things updated. The eternal question when chosing a method to publish a blog is, why publish a blog. I don&amp;rsquo;t really have an answer for that yet. I wish I did. Honestly, I do. You don&amp;rsquo;t have to believe me, because I believe in myself, and if this is all one big simulation, you don&amp;rsquo;t matter anyway.</description>
+    </item>
+    
+    <item>
+      <title>Spacemacs</title>
+      <link>http://www.onec.me/post/spacemacs/</link>
+      <pubDate>Tue, 19 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.onec.me/post/spacemacs/</guid>
+      <description>Emacs is very powerful. Amazingly so. But it&amp;rsquo;s so arcane, the keystrokes could take you years to master. So what&amp;rsquo;s a developer to do?
+Enter spacemacs. I honestly don&amp;rsquo;t know where this idea came from, and my brain is structured in such a way that I could have ever pulled it off myself. But an emacs configured like Vim (thank you evil mode) with discoverable keystrokes &amp;hellip; I am always flabergasted.</description>
+    </item>
+    
+  </channel>
+</rss>

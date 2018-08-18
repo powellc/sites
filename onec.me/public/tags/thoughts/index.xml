@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thoughts on One C</title>
+    <link>https://www.onec.me/tags/thoughts/</link>
+    <description>Recent content in Thoughts on One C</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 23 Sep 2017 10:36:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.onec.me/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Off days</title>
+      <link>https://www.onec.me/blog/off-days/</link>
+      <pubDate>Sat, 23 Sep 2017 10:36:00 +0000</pubDate>
+      
+      <guid>https://www.onec.me/blog/off-days/</guid>
+      <description>We&amp;rsquo;re all entitled to having off days, but it doesn&amp;rsquo;t make them any easier to work around. I woke up today without much ambition, despite the fact that we have chickens that need to be slaughtered. To add insult to injury, after we decided not to worry about slaughter, I went downstairs to discover that the toilet is not filling. There&amp;rsquo;s simply no water in the supply line. To make things weirder, the sink that&amp;rsquo;s on the same line works fine.</description>
+    </item>
+    
+  </channel>
+</rss>

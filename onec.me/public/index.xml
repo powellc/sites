@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>a personal blog</title>
+    <link>http://www.onec.me/</link>
+    <description>Recent content on a personal blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Aug 2018 01:01:00 -0400</lastBuildDate>
+    
+        <atom:link href="http://www.onec.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Another Engine</title>
+      <link>http://www.onec.me/post/another-engine/</link>
+      <pubDate>Sat, 18 Aug 2018 01:01:00 -0400</pubDate>
+      
+      <guid>http://www.onec.me/post/another-engine/</guid>
+      
+        <description>&lt;p&gt;Once, I used Jekyll. Then I switched to Pelican. I&amp;rsquo;m finally here on Hugo, and
+hoping that this will make it easier to keep things updated. The eternal
+question when chosing a method to publish a blog is, why publish a blog. I don&amp;rsquo;t
+really have an answer for that yet. I wish I did. Honestly, I do. You don&amp;rsquo;t have
+to believe me, because I believe in myself, and if this is all one big
+simulation, you don&amp;rsquo;t matter anyway.&lt;/p&gt;
+
+&lt;p&gt;Incidentally, perhaps the best part of this transition is the
+&lt;a href=&#34;https://ox-hugo.scripter.co/&#34;&gt;ox-hugo&lt;/a&gt; plugin, which makes writing new posts
+and publishing them a dream. Now, instead of some complicated cocktail of adding
+a new file with the write filename and proper metadata, I can just org-mode
+capture the thing. The more I use emacs (and specifically
+&lt;a href=&#34;http://spacemacs.org&#34;&gt;spacemacs&lt;/a&gt;), the more in love I am.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Apples</title>
+      <link>http://www.onec.me/post/apples/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://www.onec.me/post/apples/</guid>
+      
+        <description>&lt;p&gt;Sitting in a coffee shop surrounded by people tapping away on Macbooks I can
+help but remember my freshman year in college. One of my floor RLAs was a total
+Mac cultist who owned multiple aging machines, included a G3 that he desperately
+wanted to get Apache running on. OS 9 was less hospitable to POSIX toolchains
+then. He did get it to work eventually, and I was impressed, but I sure as hell
+wasn&amp;rsquo;t going to buy a Mac myself.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s hard in hindsight to realize how bad things were in that world. OS 9 was
+the sort of OS only a mother could love. So many quirks that made using it an
+exercise in self-punishement.&lt;/p&gt;
+
+&lt;p&gt;But Jobs rose the Phoneix from the ashes. And now here I sit having to eat my
+words about Apple being dead. It&amp;rsquo;s amazing how much one person can have an
+impact on the world. Thinking on a flight recently, it occurred to me that if
+half of the billionaires in the world had the vision of Gates or Musk, where
+might the world be?&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Campaigning</title>
+      <link>http://www.onec.me/post/campaigning/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.onec.me/post/campaigning/</guid>
+      
+        <description>&lt;p&gt;Campaigning has been a very interesting trip. The most memoroable aspect of
+running for select board so far has been finding people standing up along side
+me and asking how they can help me gain a seat at the table. Mostly, that&amp;rsquo;s
+because I tend to think of myself as a relatively unimportant person. And I am,
+even now. Yet my desire to serve the town intersects with a lot of other folks&amp;rsquo;
+desires for their town, and I&amp;rsquo;m amazed that they see me as someone who can help
+them.&lt;/p&gt;
+
+&lt;p&gt;Mostly, what that means to me is that this has become a responsibility. Not that
+I didn&amp;rsquo;t already know that to a certain degree, but extent to which service is
+really responsiblity has fully dawned on me now.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Free and Responsible</title>
+      <link>http://www.onec.me/post/free-and-responsible/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.onec.me/post/free-and-responsible/</guid>
+      
+        <description>&lt;p&gt;The way I was raised, certain people were simply wrong. If they didn&amp;rsquo;t share the same enthusiasm for science, they were incorrect. If they believed in a benevolent (or even malevolent) Christian god, they were wrong. There was very little gray in many of the positions that were espoused to me. One of the great aspects of humanity is that we are given the opportunity to raise our children with our values and beliefs. But, of course, there are responsibilities there too.&lt;/p&gt;
+
+&lt;p&gt;It almost seems absurd to say this, but I don&amp;rsquo;t think I was always responsibly educated. Absurd, because that&amp;rsquo;s a high bar and I&amp;rsquo;m not sure anyone can ever claim to have been educated under the perfect paradigm. But to the extent that it took me many years to understand what it means to pursue a free and responsible search for truth and meaning, I think there could have been more openess to what I was exposed to.  The Christian Bible is an amazing book. The Bhagavad Gita is absolutely beautiful. Darwin had his doubts about the extent to which evolution allows us to understand life. Newton was downright crazy half the time.&lt;/p&gt;
+
+&lt;p&gt;The source of responsibility in our lives is humbleness.  When we say we are responsible for our children, that does not mean if we fail to teach them the right things we have failed.  It means if we fail to listen to them, and discern what they need based on what we understand about them and what they tell us, we have failed them.  There is no test for responsible parenthood, just as there is no test of responsible searching for meaning in our lives.  When we have the freedom to search for truth and meaning, we must use discernment and listening as our foundation for responsibility. Listen first, think second, act last.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Spacemacs</title>
+      <link>http://www.onec.me/post/spacemacs/</link>
+      <pubDate>Tue, 19 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.onec.me/post/spacemacs/</guid>
+      
+        <description>&lt;p&gt;Emacs is very powerful. Amazingly so. But it&amp;rsquo;s so arcane, the keystrokes could
+take you years to master. So what&amp;rsquo;s a developer to do?&lt;/p&gt;
+
+&lt;p&gt;Enter spacemacs. I honestly don&amp;rsquo;t know where this idea came from, and my brain
+is structured in such a way that I could have ever pulled it off myself. But an
+emacs configured like Vim (thank you evil mode) with discoverable keystrokes &amp;hellip;
+I am always flabergasted.&lt;/p&gt;
+
+&lt;p&gt;Tonight I discovered how to open the kill ring. While it sounds aggressive, it&amp;rsquo;s
+really just Emacs version of a clipboard. Anything you cut or copy ends up on
+the kill ring. For so long I treated it like the opaque clipboard on so many
+operating systems. The last thing I cut is the only thing I have access to. And
+God help me if I cut something else, because I&amp;rsquo;ll lose the last thing to
+oblivion.&lt;/p&gt;
+
+&lt;p&gt;But not anymore, baby. With an interactive kill ring (SPC-r-y for those of you
+following along at home) you get a searchable compendium of everything you&amp;rsquo;ve
+cut or copied in the current session. Absolutely brilliant.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Coaching soccer</title>
+      <link>http://www.onec.me/post/coaching-soccer/</link>
+      <pubDate>Tue, 26 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.onec.me/post/coaching-soccer/</guid>
+      
+        <description>&lt;p&gt;This is my second year coaching the middle school soccer team here in Castine.
+Each year I am filled with apprehension about the make up of the team, and
+wether coaching is actually something I can do. All those kids, just looking at
+you to say something, anything really, so long as it relates to soccer.&lt;/p&gt;
+
+&lt;p&gt;And yet here I am. My second year of telling kids what to do. Interestingly,
+what&amp;rsquo;s most stood out from year to year is the growth of the players. Fifth
+graders last year who had trouble paying attention and looked at me like I was
+speaking Greek when I told them to hustle to the ball, have become easily
+motivated. Older players seem almost excited to step into leadership roles,
+whether in the goal or taking a midfield position with lots of running.&lt;/p&gt;
+
+&lt;p&gt;Really, it&amp;rsquo;s the same as watching my own kids grow up. The miracle of humanity
+is how we grow and develop our own personality quirks and motivations which are
+at once totally our own, and also clearly cobbled together by experiences we&amp;rsquo;ve
+shared. For my part, I love it.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Equity</title>
+      <link>http://www.onec.me/post/equity/</link>
+      <pubDate>Tue, 19 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.onec.me/post/equity/</guid>
+      
+        <description>&lt;p&gt;The gospel of Matthew suggests that Christ&amp;rsquo;s heaven is an equal opportunity
+saver. That is, it is not a place where those who worked the hardest receive the
+best, or those who took and never gave suffer. The parable of the vineyard
+laborers more or less spells out a universal salvation message for those who
+would be willing to work, not for how much they work. And, as a parable, that
+means that those who come to find love and compassion late in life are no less
+entitled to salvation than anyone else.&lt;/p&gt;
+
+&lt;p&gt;In Unitarian Universalism, this reflects very accurately what we mean in our
+second principle. We affirm justice, equity and compassion in human relations.
+Note, carefully, that we do not include equality in what we affirm. Equality is
+a difficult concept for humans to hold in their minds, because it suggests that
+everyone needs the same thing. Instead, let us focus our energy on providing
+justice and equity. Because the abused child may need more love and patient
+understanding than the child raised in a loving home. The diversity and color of
+conditions that humans live in exclude the possibility of anything ever being
+equal when it comes to love.&lt;/p&gt;
+
+&lt;p&gt;Instead let us strive for equity and considered justice, ensuring that needs are
+being met and that we are working towards making everyone whole. Indeed,
+laborers who did not have the advantage of being there at the start of the day
+deserve their full payment all the same.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Are you like me?</title>
+      <link>http://www.onec.me/post/are-you-like-me/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.onec.me/post/are-you-like-me/</guid>
+      
+        <description>&lt;p&gt;One of the aspects of my faith that I have the most difficulty with is accepting
+other people regardless of where they are. As a human, I like to hang with
+people like me. This is understandable, as tribalism exists in the world as an
+artifact of the world we have lived in for the last 10,000 years.&lt;/p&gt;
+
+&lt;p&gt;And yet, UUism calls me to be accepting of others and to encourage others in
+their spiritual growth. How can I be tribal and accepting of others at the same
+time? I think a big part of that practice is being honest with yourself about
+the biases you may have. I value thoughtfulness and intelligence highly. I do
+not place as much value on art and entertainment. It is not that I don&amp;rsquo;t like
+those things, but someone who orients their life around art make it immediately
+more difficult for me to find similarities and to enjoy their company.&lt;/p&gt;
+
+&lt;p&gt;The best thing I&amp;rsquo;ve found in these situations is to keep plumbing for
+commonality. As awkward as tribalism can be, it&amp;rsquo;s also a fantastic tool to build
+affinity for other people. If you can intentionally try to build a tribe with
+strangers, before you know it they are no longer a stranger and instead part of
+a new tribe that you just created. Maybe they have kids. I have kids and know
+that world all too well. Perhaps they have a Mormon grandmother who is difficult
+to be around :) Yet another opportunity to build the community that was missing
+before.&lt;/p&gt;
+
+&lt;p&gt;The trick is not to disavow the aspects of our human psychology that make us
+able to accept others, but use them to our advantage to grow our tribe larger,
+or at least increase the number of small tribes we&amp;rsquo;re a part of.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Leadership</title>
+      <link>http://www.onec.me/post/leadership/</link>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.onec.me/post/leadership/</guid>
+      
+        <description>&lt;p&gt;An interesting discussion occurred at work today where I was forced to put into
+words some thoughts I&amp;rsquo;ve been kicking around for a while on the nature of
+leadership. None of my thoughts are original, mind you. This one was cribbed
+from a blog post about leading without authority. I&amp;rsquo;ll drop the link when I find
+it. The long and the short of that post was that leadership has only the loosest
+relationship with authority. In fact, it&amp;rsquo;s often a sign of dysfunctional
+leadership which depends on having someone give you authority.&lt;/p&gt;
+
+&lt;p&gt;In the world of power, authority is one of the most difficult types to wield,
+because it generally means someone has placed an expectation on you. You will be
+forced to live up to those expectations or be cut down from your place of
+authority quickly. Meanwhile, leadership is not actually a type of power, but a
+behavior. This alone should be mind-blowing if you&amp;rsquo;re actually following along
+at home.&lt;/p&gt;
+
+&lt;p&gt;You can lead without authority. You can lead with authority. You can actually
+lead without saying a thing. This is key tenant in modern stoicism, actually.
+Don&amp;rsquo;t tell, do. And so it is in leadership as well. Don&amp;rsquo;t tell people what to
+do, show them what is effective, and empathize with their plight.&lt;/p&gt;
+
+&lt;p&gt;One of the more disappointing interactions I had recently was when a co-worker
+expressed a lack of joy in his work. It struck a nerve with me, in that I had
+felt many of the same things. And our lead engineer, who tends to lead through
+authority rather than trust, kind, sort of, well &amp;hellip; blew us off. I really
+didn&amp;rsquo;t see that coming, and it&amp;rsquo;s forced me to take a step back and realize that
+I need to do a better job of leading without authority. Of building trust
+amongst my co-workers so that when the need arises, I can step up.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Finding meaning</title>
+      <link>http://www.onec.me/post/finding-meaing/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.onec.me/post/finding-meaing/</guid>
+      
+        <description>&lt;p&gt;What does it mean to encourage others towards spiritual growth? At a recent
+board meeting, which included a fairly contentious issue, a number of friends
+and myself certainly did not encourage anyone towards spiritual growth. The root
+of the problem, as with many problems, lies with differences; differences of
+opinion, experience, and expectations. As a Unitarian Universalist congregation,
+we espouse the seven principles, which are as close to dogma as you&amp;rsquo;re likely to
+see in UUism. One of these seven &amp;ldquo;pillars&amp;rdquo; of behavior as a UU calls us to
+accept others and help them towards spiritual growth. How can we do that when
+we&amp;rsquo;re so different?&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m repeating myself here, but repetition is the best way to learn anything, so
+let&amp;rsquo;s go again. Difference tends to cause us to build walls. Often we do not do
+so intentionally, but humans are animals, and there is a base tribalness to much
+of what animals do. It should not surprise us that we like to be with our own
+kind, to have our ideas reinforced, to spend time with those we&amp;rsquo;ve shared
+experiences. But that gets to the crux of it. Share experiences with other
+people. Embrace our tribalness to create connections with people who are
+currently strangers. This is not radical acceptance. If you believe that
+abortion is a sin against your chosen diety, that is not a good place to begin
+acceptance. Rather, why not talk about youre experience with your children? Talk
+about sports, the weather, and begin to ask questions.&lt;/p&gt;
+
+&lt;p&gt;Do you know where the members on your board were born? Where they were raised?
+What they personally believe? The stand out experiences in their lives? Their
+favorite books? Movies? What they love? What drives them crazy? These are not
+retorical questions. Nor are they questions that I have asked yet. So no need to
+feel bad. Being an accepting and welcoming human being is difficult preciscely
+because of our earlier manifestation as uncooperative animals. But by some
+miracle have developed the skills of discernment and cooperation, and we should
+perform social exercises to keep our open-ness well conditioned.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Off days</title>
+      <link>http://www.onec.me/post/off-days/</link>
+      <pubDate>Sat, 23 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.onec.me/post/off-days/</guid>
+      
+        <description>&lt;p&gt;We&amp;rsquo;re all entitled to having off days, but it doesn&amp;rsquo;t make them any easier to
+work around. I woke up today without much ambition, despite the fact that we
+have chickens that need to be slaughtered. To add insult to injury, after we
+decided not to worry about slaughter, I went downstairs to discover that the
+toilet is not filling. There&amp;rsquo;s simply no water in the supply line. To make
+things weirder, the sink that&amp;rsquo;s on the same line works fine. We&amp;rsquo;ve been working
+thorugh issues with sediment in our well water, and it seems like this is
+probably related. But we really have no idea.&lt;/p&gt;
+
+&lt;p&gt;Yesterday was a funny day too where matters beyond my control led to me not
+being very responsive at work. That carries it&amp;rsquo;s own stress as deadlines loom
+and people expect a certain result and you have to explain why the result is not
+there yet. Effectively, today is a day where the rug feels slightly frayed
+around the edges. Life is hardly falling apart, but things are just starting to
+slip a little bit.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;re all entitled to days like these, but it doesn&amp;rsquo;t make it any easier to
+weather, especially when working on remainig stoic about life, it can feel like
+a setback. That said, the feeling of discouragment is really pride. Pride that
+you thought you had things under control, when in reality you were never in
+control of the things around you, but simply your respones to the things around
+you. Centering in these moments involves acknowledging that all you can do is
+control your response and actions, and doing your best to return to those&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Why are we grateful?</title>
+      <link>http://www.onec.me/post/why-are-we-grateful/</link>
+      <pubDate>Tue, 19 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.onec.me/post/why-are-we-grateful/</guid>
+      
+        <description>&lt;p&gt;I just finished the book &lt;strong&gt;The Righteous Mind&lt;/strong&gt; by Jonathan Haidt and was struck
+by a line at the beginning of his acknowledgment section. Relaying what a
+graduate student once taught him he explains that we do not express gratitude
+to settle debts or sow the ground for favors. We give our gratitude out to make
+stronger relationships.&lt;/p&gt;
+
+&lt;p&gt;I was struck by what a simple, yet profound thought that was. Gratefulness is
+not a selfish tool we wield to get the upper hand. Humans, while highly
+rational about a great many things, operate more like bees in a hive than most
+would give us credit for. Hives need cohesion. Strong relationships breed
+cohesion. The process is so clear.&lt;/p&gt;
+
+&lt;p&gt;Do you imagine that chimps can express their gratitude to one another?&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>On the ballot</title>
+      <link>http://www.onec.me/post/on-the-ballot/</link>
+      <pubDate>Mon, 18 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.onec.me/post/on-the-ballot/</guid>
+      
+        <description>&lt;p&gt;I&amp;rsquo;m officially going to be on the ballot in Castine for selectmen this year!&lt;/p&gt;
+
+&lt;p&gt;Turned in my nomination papers, and, pending a review of the voter signature, I
+will be on the ballot along with Patrick Haugen and Buzz Layton. It was a lot
+of fun talking to folks about the town while collecting signature, and I&amp;rsquo;m
+feeling really blessed to be in a community that not only provides me the
+opportunity to run for public office, but one where my friends and neighbors
+are actively enthuiastic about my campaign.&lt;/p&gt;
+
+&lt;p&gt;Next stop, election day!&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Monarchs</title>
+      <link>http://www.onec.me/post/monarchs/</link>
+      <pubDate>Sat, 16 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.onec.me/post/monarchs/</guid>
+      
+        <description>&lt;p&gt;I knew that monarch butterflies were born somewhere in the north and then
+migrated to Mexico for the winter. But today on a hike on Sears Island we got to
+see a field of wildflowers, predominently milkweed, that was set aside
+specifically for monarchs to develop in.&lt;/p&gt;
+
+&lt;p&gt;Indeed, we saw a few monarch caterpillers, which interesting actually share a
+color pattern with their flying form.&lt;/p&gt;
+
+&lt;p&gt;Our enthusiasm was dampened slightly when the flying insects came out. They
+specifically seemed to want our lunch and recent traumatic events involving
+ground hornets meant we had to make a hasty retreat.&lt;/p&gt;
+
+&lt;p&gt;The hike ended up being almost two miles and was through some really pretty
+paths. I would definitely enjoy hiking on Sears Island again.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://www.onec.me/about/</link>
+      <pubDate>Fri, 17 Aug 2018 06:42:21 -0700</pubDate>
+      
+      <guid>http://www.onec.me/about/</guid>
+      
+        <description>&lt;p&gt;Sometimes I forget things. Mostly I forget things. Very little of what happens in a given day is remembered. What you find here, at my very own vanity URL and content repository are the things I&amp;rsquo;m hoping will help me remember all those things I&amp;rsquo;ve forgotten. It hasn&amp;rsquo;t worked perfectly yet. And let&amp;rsquo;s be honest, it&amp;rsquo;s unlikely to ever work perfectly. But as the ancient Welsh proverb says, &amp;ldquo;perfection is the enemy of getting anything at all close to complete.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;What you will most probably find here, then, are things about things that I&amp;rsquo;m actively learning about. Hopefully they&amp;rsquo;re useful me. If we&amp;rsquo;re really lucky, they&amp;rsquo;ll be useful to you, my diligent reader, too.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;colophon/&#34;&gt;Colophon&lt;/a&gt;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Common Ground</title>
+      <link>http://www.onec.me/post/common-ground-2017/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.onec.me/post/common-ground-2017/</guid>
+      
+        <description>&lt;p&gt;Another fair has come and gone. There was once a time where we lazily strolled through Common Ground, treating it like so many other country fairs. Once we discovered the lectures on homestaeding and slow living, we started running manic circles through Unity looking for the next best talk.&lt;/p&gt;
+
+&lt;p&gt;When kids came along, we continued to try to run laps through, trading responsibility for the little ones while we collected ideas to bring home. But it became clear that only insanity and discontent lived at the end of that road, and so we dedicated our time to kid activities, making sure not to stay too late.&lt;/p&gt;
+
+&lt;p&gt;As the world around us moves in phase, unsurprisingly, the phases of our life move in cycles. Spring yields to Summer, which gives way to Fall and eventually Winter until Spring comes again. Our fair experience has gone in a bigger cycle, one dominated by multi-year blocks, rather than the seasons. But there is as seasonality to kids, just as there are to farms. And appreciating the cycles leads me, at least, to a deep satisfaction.&lt;/p&gt;
+
+&lt;p&gt;That satisfaction trancends any given day or ambition.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>

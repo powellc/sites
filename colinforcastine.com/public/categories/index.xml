@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Notes from the Castine Selectboard</title>
+    <link>https://colinforcastine.com/categories/</link>
+    <description>Recent content in Categories on Notes from the Castine Selectboard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Oct 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://colinforcastine.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Business</title>
+      <link>https://colinforcastine.com/categories/business/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://colinforcastine.com/categories/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta</title>
+      <link>https://colinforcastine.com/categories/meta/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://colinforcastine.com/categories/meta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mma</title>
+      <link>https://colinforcastine.com/categories/mma/</link>
+      <pubDate>Fri, 10 Nov 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://colinforcastine.com/categories/mma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://colinforcastine.com/categories/projects/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://colinforcastine.com/categories/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilities</title>
+      <link>https://colinforcastine.com/categories/utilities/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://colinforcastine.com/categories/utilities/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

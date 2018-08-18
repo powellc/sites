@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maine on a personal blog</title>
+    <link>http://www.onec.me/tags/maine/</link>
+    <description>Recent content in Maine on a personal blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.onec.me/tags/maine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Common Ground</title>
+      <link>http://www.onec.me/post/common-ground-2017/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.onec.me/post/common-ground-2017/</guid>
+      <description>Another fair has come and gone. There was once a time where we lazily strolled through Common Ground, treating it like so many other country fairs. Once we discovered the lectures on homestaeding and slow living, we started running manic circles through Unity looking for the next best talk.
+When kids came along, we continued to try to run laps through, trading responsibility for the little ones while we collected ideas to bring home.</description>
+    </item>
+    
+  </channel>
+</rss>

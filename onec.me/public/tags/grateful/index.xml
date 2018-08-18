@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grateful on One C</title>
+    <link>https://www.onec.me/tags/grateful/</link>
+    <description>Recent content in Grateful on One C</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 19 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.onec.me/tags/grateful/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why are we grateful?</title>
+      <link>https://www.onec.me/blog/why-are-we-grateful/</link>
+      <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.onec.me/blog/why-are-we-grateful/</guid>
+      <description>I just finished the book The Righteous Mind by Jonathan Haidt and was struck by a line at the beginning of his acknowledgment section. Relaying what a graduate student once taught him he explains that we do not express gratitude to settle debts or sow the ground for favors. We give our gratitude out to make stronger relationships.
+I was struck by what a simple, yet profound thought that was. Gratefulness is not a selfish tool we wield to get the upper hand.</description>
+    </item>
+    
+  </channel>
+</rss>

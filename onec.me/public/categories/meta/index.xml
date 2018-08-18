@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meta on One C</title>
+    <link>https://www.onec.me/categories/meta/</link>
+    <description>Recent content in Meta on One C</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://www.onec.me/categories/meta/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A daring return</title>
+      <link>https://www.onec.me/blog/a-daring-return/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.onec.me/blog/a-daring-return/</guid>
+      <description>In one magnificent stroke, I announce my intention to blog more. That&amp;rsquo;s right &amp;hellip; I&amp;rsquo;ve not been bloggin&amp;rsquo; for a bit. Couldn&amp;rsquo;t you tell? What? Nevermind. That&amp;rsquo;s not important right now.
+What is important is that I&amp;rsquo;ll be updating folks on what&amp;rsquo;s going on in the lives of us Timberwyckians. All the ups and downs of trying to be the best father I can be, while juggling being a half-way decent software developer and farmer.</description>
+    </item>
+    
+  </channel>
+</rss>
